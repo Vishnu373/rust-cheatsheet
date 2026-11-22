@@ -44,4 +44,5 @@ cargo build --release
 ---
 
 ## Lessons
-- [variables](variables)
+- [1. Variables](variables)
+- [2. Data types](data_types)
