@@ -25,7 +25,7 @@ cargo build
 ```
 
 ## Build and compile/run the code
-Meaning convertion + executing the file.
+Meaning conversion + executing the file.
 ```bash
 cargo run
 ```

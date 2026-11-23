@@ -1,5 +1,5 @@
 # Variable
-- Think of it as a container to store value. Variables can **mutable** and **immutable**.
+- Think of it as a container to store value. Variables can be **mutable** and **immutable**.
 - By default variables are **immutable**.
 - Limited scope (inside a function).
 
@@ -22,6 +22,6 @@
 # Shadowing
 - Declare a new variable with same name again as the previous variable.
 - Thus, the compiler will only see the last assigned value when used.
-- It is different from mutablity.
+- It is different from mutability.
 - By shadowing, you can change the type of variable upon reassigning it a new value.
     - But if you try to use the `mut` keyword for this purpose, you will get an error.
