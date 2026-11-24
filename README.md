@@ -46,3 +46,4 @@ cargo build --release
 ## Lessons
 - [1. Variables](variables)
 - [2. Data types](data_types)
+- [3. Functions - statements and expressions](functions)
