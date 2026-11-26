@@ -47,3 +47,4 @@ cargo build --release
 - [1. Variables](variables)
 - [2. Data types](data_types)
 - [3. Functions - statements and expressions](functions)
+- [4. Conditional statements - if, else](conditional_statements)
